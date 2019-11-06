@@ -16,9 +16,13 @@ https://lwc.dev/
  Diet - 0 sodas, 1 beer.
   
 **Tuesday November 5th.**
+
  Code-   Signed up for Blizzard Api key.
+ 
    Set up Postman collection for api testing.
+ 
    Set up Environment variables for blizz api.
+ 
    Starting building out authentication call with Postman - currently debugging.
    
  Self - went on a walk today.
