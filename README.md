@@ -13,7 +13,7 @@ https://lwc.dev/
 
  Self - went on a walk today.
 
- Diet - 0 sodas, 1 beer.
+ Beverage tracker - 0 sodas, 1 beer.
   
 **Tuesday November 5th.**
 
@@ -27,5 +27,15 @@ https://lwc.dev/
    
  Self - went on a walk today.
 
- Diet - 0 sodas, 1 beer.
+ Beverage tracker - 0 sodas, 1 beer.
 
+ 
+**Wednesday November 6th.**
+
+Code - fixed authentication with blizzard. currently trying out different endpoints. 
+       seeing what kind of data is available. cross referencing data with ingame content to verify accuracy.
+       its a dirty job. hopefully I am up to the task.
+
+Self - went on a walk today
+
+Beverage tracker - 0 sodas 0 beer.
