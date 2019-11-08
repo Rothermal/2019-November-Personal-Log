@@ -39,3 +39,11 @@ Code - fixed authentication with blizzard. currently trying out different endpoi
 Self - went on a walk today
 
 Beverage tracker - 0 sodas 0 beer.
+
+**Thursday November 7th.**
+
+Code - still testing out endpoints. starting to plan out ideas for a potential app. 
+
+Self - 
+
+Beverage tracker - 0 sodas 0 beer.
