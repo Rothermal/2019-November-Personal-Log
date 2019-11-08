@@ -6,6 +6,15 @@ Goals. - Code more, consume less.
 
 https://lwc.dev/
 
+**Friday November 8th.**
+
+Code - spun up lwc app with generator. time to dig back into express/node and figure out how all this stuff works again.
+
+Self -
+
+Beverage Tracker - 0 soda 0 beer.
+
+
 **Thursday November 7th.**
 
 Code - still testing out endpoints. starting to plan out ideas for a potential app. 
