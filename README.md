@@ -6,15 +6,24 @@ Goals. - Code more, consume less.
 
 https://lwc.dev/
 
+**Thursday November 7th.**
 
-**Monday November 4th.**
+Code - still testing out endpoints. starting to plan out ideas for a potential app. 
 
- Code - Starting off slow. looks like I'm doing a 30 day challenge.
+Self - 
 
- Self - went on a walk today.
+Beverage tracker - 0 sodas 0 beer.
 
- Beverage tracker - 0 sodas, 1 beer.
-  
+**Wednesday November 6th.**
+
+Code - fixed authentication with blizzard. currently trying out different endpoints. 
+       seeing what kind of data is available. cross referencing data with ingame content to verify accuracy.
+       its a dirty job. hopefully I am up to the task.
+
+Self - went on a walk today
+
+Beverage tracker - 0 sodas 0 beer.
+
 **Tuesday November 5th.**
 
  Code-   Signed up for Blizzard Api key.
@@ -29,21 +38,17 @@ https://lwc.dev/
 
  Beverage tracker - 0 sodas, 1 beer.
 
+
+**Monday November 4th.**
+
+ Code - Starting off slow. looks like I'm doing a 30 day challenge.
+
+ Self - went on a walk today.
+
+ Beverage tracker - 0 sodas, 1 beer.
+  
+
  
-**Wednesday November 6th.**
 
-Code - fixed authentication with blizzard. currently trying out different endpoints. 
-       seeing what kind of data is available. cross referencing data with ingame content to verify accuracy.
-       its a dirty job. hopefully I am up to the task.
 
-Self - went on a walk today
 
-Beverage tracker - 0 sodas 0 beer.
-
-**Thursday November 7th.**
-
-Code - still testing out endpoints. starting to plan out ideas for a potential app. 
-
-Self - 
-
-Beverage tracker - 0 sodas 0 beer.
