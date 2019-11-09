@@ -6,6 +6,16 @@ Goals. - Code more, consume less.
 
 https://lwc.dev/
 
+**Saturday November 9th.**
+
+Code - Did not have time for coding today.
+
+Self - Performed front and rear brake job on Wifes car + oil change.
+
+Beverage Tracker - 1 soda 1 beer.
+
+
+
 **Friday November 8th.**
 
 Code - spun up lwc app with generator. time to dig back into express/node and figure out how all this stuff works again.
