@@ -1,16 +1,23 @@
 # 2019-November-Personal-Log
 tracking personal growth 1 commit at a time.
+https://lwc.dev/
 
 Goals. - Code more, consume less.
 
+**Sunday November 10th.**
 
-https://lwc.dev/
+Code - another slow day for coding. 
+
+Self - finished rear brake job, spent day doing yard work.
+
+Beverage tracker - 0 soda 0 beer
+
 
 **Saturday November 9th.**
 
 Code - Did not have time for coding today.
 
-Self - Performed front and rear brake job on Wifes car + oil change.
+Self - started rear brake job on Wifes car.
 
 Beverage Tracker - 1 soda 1 beer.
 
