@@ -1,8 +1,21 @@
 # 2019-November-Personal-Log
 tracking personal growth 1 commit at a time.
+
 https://lwc.dev/
 
 Goals. - Code more, consume less.
+
+**Monday November 11th.**
+
+Code - working through webpack configuration documentation for lwc-services.
+
+https://github.com/muenzpraeger/create-lwc-app
+
+Self - 
+
+Beverage tracker - 0 soda 0 beer
+
+
 
 **Sunday November 10th.**
 
