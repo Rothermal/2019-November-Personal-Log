@@ -5,6 +5,14 @@ https://lwc.dev/
 
 Goals. - Code more, consume less.
 
+**Tuesday November 12th.**
+
+Code - No time for coding tonight
+
+Self - cardio workout.
+
+Beverage tracker - 0 soda 0 beer
+
 **Monday November 11th.**
 
 Code - working through webpack configuration documentation for lwc-services.
