@@ -5,6 +5,14 @@ https://lwc.dev/
 
 Goals. - Code more, consume less.
 
+**Wednesday November 13th.**
+
+Code - No time for coding tonight
+
+Self - Upper body workout.
+
+Beverage tracker - 0 soda 0 beer
+
 **Tuesday November 12th.**
 
 Code - No time for coding tonight
@@ -22,7 +30,6 @@ https://github.com/muenzpraeger/create-lwc-app
 Self - 
 
 Beverage tracker - 0 soda 0 beer
-
 
 
 **Sunday November 10th.**
