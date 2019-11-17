@@ -5,6 +5,14 @@ https://lwc.dev/
 
 Goals. - Code more, consume less.
 
+**Sunday November 17th.**
+
+Code - 
+
+Self - Winterized garage - performed oil change on wifes car.
+
+Beverage tracker - 0 soda 0 beer
+
 **Saturday November 16th.**
 
 Code - No code as of yet. - 
