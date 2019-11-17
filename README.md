@@ -5,6 +5,14 @@ https://lwc.dev/
 
 Goals. - Code more, consume less.
 
+**Saturday November 16th.**
+
+Code - No code as of yet. - 
+
+Self - was talked into helping coach sons basketball team.
+
+Beverage tracker - 0 soda 0 beer
+
 **Friday November 15th.**
 
 Code - No time for coding tonight
