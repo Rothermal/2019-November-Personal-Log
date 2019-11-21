@@ -5,6 +5,14 @@ https://lwc.dev/
 
 Goals. - Code more, consume less.
 
+**Thursday November 21th.**
+
+Code - 
+
+Self - basketball practice 
+
+Beverage tracker - 0 soda 0 beer
+
 **Wednesday November 20th.**
 
 Code - Completed maintenance tests for salesforce certifications, Admin and App builder.
