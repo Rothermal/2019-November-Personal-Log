@@ -9,6 +9,15 @@ Goals. - Code more, consume less.
 
 Code - 
 
+Self - Today was a long day.
+
+Beverage tracker - 0 soda 0 beer
+
+
+**Thursday November 21th.**
+
+Code - 
+
 Self - basketball practice 
 
 Beverage tracker - 0 soda 0 beer
