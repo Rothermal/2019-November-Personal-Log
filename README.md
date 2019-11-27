@@ -5,6 +5,14 @@ https://lwc.dev/
 
 Goals. - Code more, consume less.
 
+**Tuesday November 26th.**
+
+Code - worked on some calls with blizz api.
+
+Self - Coached basketball practice
+
+Beverage tracker - 0 soda 0 beer
+
 **Monday November 25th.**
 
 Code - 
