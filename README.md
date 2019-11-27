@@ -5,6 +5,14 @@ https://lwc.dev/
 
 Goals. - Code more, consume less.
 
+**Wednesday November 27th.**
+
+Code - 
+
+Self - Date night with wife
+
+Beverage tracker - 1 soda 1 beer
+
 **Tuesday November 26th.**
 
 Code - worked on some calls with blizz api.
