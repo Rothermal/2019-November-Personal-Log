@@ -5,13 +5,21 @@ https://lwc.dev/
 
 Goals. - Code more, consume less.
 
+**Thursday November 27th.**
+
+Code - 
+
+Self - Thanksgiving with family.
+
+Beverage tracker - 1 soda 0 beer
+
 **Wednesday November 27th.**
 
 Code - 
 
 Self - Date night with wife
 
-Beverage tracker - 1 soda 1 beer
+Beverage tracker - 0 soda 2 beer
 
 **Tuesday November 26th.**
 
