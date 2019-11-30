@@ -5,7 +5,23 @@ https://lwc.dev/
 
 Goals. - Code more, consume less.
 
-**Thursday November 27th.**
+**Saturday November 30th.**
+
+Code - 
+
+Self - 
+
+Beverage tracker - 0 soda 0 beer
+
+**Friday November 29th.**
+
+Code - 
+
+Self - Black friday madness
+
+Beverage tracker - 1 soda 0 beer
+
+**Thursday November 28th.**
 
 Code - 
 
