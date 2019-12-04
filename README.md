@@ -5,6 +5,14 @@ https://lwc.dev/
 
 Goals. - Code more, consume less.
 
+**Tuesday December 3rd.**
+
+Code - 
+
+Self - cardio
+
+Beverage tracker - 0 soda 0 beer
+
 **Monday December 2nd.**
 
 Code - 
